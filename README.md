@@ -1,4 +1,4 @@
-# Materials R&D Data Standard Expert Committe
+# Materials R&D Data Standard Expert Committee
 
 The committee is building a standard of schema and vacabularies of materials R&D data. 
 The committee was launched in March 2021, as an affiliated organization of the Center for Materials Research Data. 
