@@ -7,5 +7,5 @@
 * Satus : on working
 
 * Added materials system
-* * polymer (Polyinfor mapping, KIST 손정곤)
+  - polymer (Polyinfor mapping, KIST 손정곤)
   
