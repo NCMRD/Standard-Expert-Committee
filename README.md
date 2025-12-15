@@ -2,7 +2,7 @@
 
 * built on json-schema (2020-12 draft https://json-schema.org)
   
-* Satus : on working
+* Satus : released on 2025.12.15
 
 * Added vocabularies
   - polymer (Polyinfor mapping, KIST 손정곤, KU 이정현, NIMS Masashi Ishii)
