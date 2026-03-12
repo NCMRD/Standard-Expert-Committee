@@ -1,9 +1,9 @@
 # Working in progress for Ver. 2026-01 
 
 * Updates in Ver 2026-01
-- High Entropy Alloy : 오창석 (KIMS), 박기성 (KIMS), Haiqing Yin (USTB), Hiroshi Mizuseki (KIST), 이정훈 (KIST)
-- Polymer : 방준하 (KU), 이정현 (KU)
-- Composite Materials : 장홍규 (KIMS), 유재상 (KIST), 허용학 (KRISS)
+  - High Entropy Alloy : 오창석 (KIMS), 박기성 (KIMS), Haiqing Yin (USTB), Hiroshi Mizuseki (KIST), 이정훈 (KIST)
+  - Polymer : 방준하 (KU), 이정현 (KU)
+  - Composite Materials : 장홍규 (KIMS), 유재상 (KIST), 허용학 (KRISS)
 - Biomedical Materials : Xiaowei Li (CUMT), 옥명렬 (KIST)
 - Quantum Chemistry and Solution Model : 김형준 (KAIST), Kenta Hongo (JAIST)
 - Corrosion and Hard Coating : Aiying Wang (NIMTE)
