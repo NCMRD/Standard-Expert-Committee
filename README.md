@@ -12,8 +12,10 @@ Following versions of the dictionary were published upto now :
  5) (NCMRD SD24-01) Standard Vocabulary for Materials Research Data (Mar. 2024, 5th Ed.)
  6) (NCMRD SD24-02) Standard Vocabulary for Materials Research Data (Oct. 2024, 6th Ed.)
  7) (NCMRD SD25-01) Standard Vocabulary for Materials Research Data (Apr. 2025, 7th Ed.)
-
-**Materials Data Standard Dictionary** can be downloaded from the NCMRD website (ncmrd.re.kr). The json schema files of the dictionary can be downloaded from the sub-braches of the Main branch.
+ 8) (NCMRD SD25-02) Standard Vocabulary for Materials Research Data (Feb. 2026, 8th Ed.)
+    
+**Materials Data Standard Dictionary** can be downloaded from sub-branches of this main branch in both pdf and json-schema format. 
+NCMRD website (ncmrd.re.kr) also published the pdf file of the dictionary 
 
 ### Files in Main Branch
 Documents related with the standardization of materials research data are uploaded on the main branch : 
