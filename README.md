@@ -1,2 +1,2 @@
-# Materials R&D Data Standard Expert Committee
+# Materials Research Data Schema V. 2025-02
 
