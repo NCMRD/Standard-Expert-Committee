@@ -1,4 +1,6 @@
-# Working in progress for Ver. 2026-01 
+# Ver. 2026-01 released (2026.9.27)
+
+1,263 new keywords are added to Ver. 2025.02
 
 * Updates in Ver 2026-01
   - High Entropy Alloy : 오창석 (KIMS), 박기성 (KIMS), Haiqing Yin (USTB), Hiroshi Mizuseki (KIST), 이정훈 (KIST)
